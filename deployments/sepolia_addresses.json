@@ -1,0 +1,18 @@
+{
+  "network": "ethereum-sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2026-03-31T12:28:12.384Z",
+  "deployer": "0x128dA3f08c125C6658C3978acB65213F58E93Cb1",
+  "contracts": {
+    "AgentCredential": "0x48BED46b86A5B2Df444EAc462a04E47AC892eC6D",
+    "ProofVerifier": "0x583b00aE28dFB28ab4Bf4b0c79F212C85C4F70fD",
+    "AgentGateway": "0x704E4D911f9a56C2b296C9D13718eA53A5E6da02",
+    "ProofAgentRegistry": "0xE31722f304A2b3Bc2B65a5bbC32B4c6E119a7f2f"
+  },
+  "explorer": {
+    "AgentCredential": "https://sepolia.etherscan.io/address/0x48BED46b86A5B2Df444EAc462a04E47AC892eC6D",
+    "ProofVerifier": "https://sepolia.etherscan.io/address/0x583b00aE28dFB28ab4Bf4b0c79F212C85C4F70fD",
+    "AgentGateway": "https://sepolia.etherscan.io/address/0x704E4D911f9a56C2b296C9D13718eA53A5E6da02",
+    "ProofAgentRegistry": "https://sepolia.etherscan.io/address/0xE31722f304A2b3Bc2B65a5bbC32B4c6E119a7f2f"
+  }
+}

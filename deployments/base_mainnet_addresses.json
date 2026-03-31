@@ -1,0 +1,18 @@
+{
+  "network": "base-mainnet",
+  "chainId": 8453,
+  "deployedAt": "[DEPLOY_FIRST]",
+  "deployer": "[DEPLOY_FIRST]",
+  "contracts": {
+    "AgentCredential": "[DEPLOY_FIRST]",
+    "ProofVerifier": "[DEPLOY_FIRST]",
+    "AgentGateway": "[DEPLOY_FIRST]",
+    "ProofAgentRegistry": "[DEPLOY_FIRST]"
+  },
+  "explorer": {
+    "AgentCredential": "https://basescan.org/address/[DEPLOY_FIRST]",
+    "ProofVerifier": "https://basescan.org/address/[DEPLOY_FIRST]",
+    "AgentGateway": "https://basescan.org/address/[DEPLOY_FIRST]",
+    "ProofAgentRegistry": "https://basescan.org/address/[DEPLOY_FIRST]"
+  }
+}
